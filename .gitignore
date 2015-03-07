@@ -16,3 +16,9 @@ dist
 /.project_old
 project/project
 project/target
+
+*.properties
+
+*.properties
+
+project/target/resolution-cache/default/rizeerjavaplay-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties
