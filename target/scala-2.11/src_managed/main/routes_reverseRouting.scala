@@ -1,6 +1,6 @@
-// @SOURCE:/Users/youssefamri/Documents/Zakaria/RizeerJavaPlay/conf/routes
+// @SOURCE:/Users/youssefamri/Documents/RizeerJavaPlay/conf/routes
 // @HASH:b31e3ed4075748bc0576b3b7654b92b97f9d84ad
-// @DATE:Sat Mar 07 12:18:06 CET 2015
+// @DATE:Sat Mar 07 12:35:57 CET 2015
 
 import Routes.{prefix => _prefix, defaultPrefix => _defaultPrefix}
 import play.core._

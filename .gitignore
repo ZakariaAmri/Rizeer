@@ -16,3 +16,4 @@ dist
 /.DS_Store
 /bin/
 /.project_old
+*.properties
