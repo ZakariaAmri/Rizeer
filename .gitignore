@@ -1,6 +1,4 @@
 logs
-project/project
-project/target
 target
 tmp
 .history
@@ -16,4 +14,5 @@ dist
 /.DS_Store
 /bin/
 /.project_old
-*.properties
+project/project
+project/target
